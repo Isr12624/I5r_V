@@ -1,8 +1,8 @@
 ## Hello World!
 
--👀 I’m interested in ...
+- 👀 I’m interested in ...
 
--⚡ Fun fact: 
+- ⚡ Fun fact: 
 
 # Recent activity
 
