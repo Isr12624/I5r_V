@@ -25,4 +25,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isr12624&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isr12624&showicons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isr12624&showicons=truebg_color=black)
